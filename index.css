@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    padding-top: 3.5rem;
+}
+
+.cover {
+    background-image: url(cover.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+}
+
+.box-musik {
+    border: rgb(70, 70, 70) solid 1px;
+    border-radius: 6px;
+}
